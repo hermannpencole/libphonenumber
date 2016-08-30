@@ -7611,7 +7611,7 @@
         <exampleNumber>801234567</exampleNumber>
       </tollFree>
       <premiumRate>
-        <nationalNumberPattern>8[129]\d{7}</nationalNumberPattern>
+        <nationalNumberPattern>8[1279]\d{7}</nationalNumberPattern>
         <exampleNumber>891123456</exampleNumber>
       </premiumRate>
       <voip>
